@@ -89,6 +89,7 @@
         echo "<br> La Persona $estudianteMayor tiene la Mayor Nota Definitiva con $notaMayor ";
         echo "<br> La Persona $estudianteMenor tiene la Menor Nota Definitiva con $notaMenor ";
         echo "<br> La Cantidad de Hombres es de: $hombres y la Cantidad de Mujeres es de: $mujeres";
+        echo "a";
     ?>
 </body>
 </html>
